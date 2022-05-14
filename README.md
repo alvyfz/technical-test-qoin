@@ -2,4 +2,8 @@
 ## RUN
 ### yarn && yarn dev
 ### or 
-### npm install && yarn run dev
+### npm install && npm run dev
+## BUILD
+### yarn && yarn build
+### or 
+### npm install && npm run build
